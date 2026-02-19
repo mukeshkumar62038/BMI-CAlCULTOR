@@ -1,0 +1,27 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+.container h1{
+   text-align: center;
+
+}
+
+form{
+    display: block;
+    text-align: center;
+    
+
+}
+ input{
+    margin: 10px;
+    border: 1px solid black;
+    padding: 10px 20px;
+    border-radius: 10px;
+
+}
+button{
+    margin: 20px;
+    border: 2px solid black;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
